@@ -1,0 +1,45 @@
+main{
+	padding: 30px;
+	font-size: 0;
+}
+
+.container{
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+}
+.box{
+	border: 1px black solid;
+	display: inline-block;
+}
+
+.halfbox{
+	width: 50%;
+	height: 200px;
+}
+.thirdbox{
+	width: 33.33%;
+	height: 300px;
+}
+
+
+.greenbox{
+		background-color: green;
+	
+}
+
+.bluebox{
+	background-color: blue;
+}
+.greybox{
+		background-color: grey;
+	
+}
+
+.blackbox{
+	background-color: black;
+}
+.orangebox{
+		background-color: orange;
+	
+}
